@@ -1,0 +1,36 @@
+   Hướng Dẫn Sử Dụng Bản UP Bên NsoTien TV
+
+
+* Chức Năng :
+- Update Chạy Ngon Lành Cho Máy c5,e63,e72,...
+- Đã Fix Né Quái Không Cần Nhảy Tốn Time
+- Thêm Cơ Chế Chống Thoát Game Cho Quạt Buff
+- Fix Map 84 + Map 33 Up Ngon Lành
+- PK Âm Tọa Độ + Tự Lưu Khu Pk Âm Tránh Nhập Lại
+- Tự Luyện Đá Khi Dưới 6 Ô Hành Trang Tránh Full Khi Up NLSK
+- Fix HP + MP Ảo Tối Ưu Up Yên Lever
+- Auto Lọc Đồ Thông Minh Tự Bỏ Ra Đất Tránh Out Game
+- Phiên Bản Sài Ngon Cho Các Ae Tên Nhân Vật [VIP]
+- Tắt Chát OFF Nick Hạn Chế Check Pass Khi Up
+- Lệnh Chat Tối Ưu + Cài Sẵn Khoảng Cách Nhặt Giúp Thao Tác Nhanh Gọn
+- Được Chọn Bản Next Map Nhanh Hay Chậm Tùy Mạng Ae
+* Hướng Dẫn Sử Dụng :
+- Chat "up" Cài Time 
+- Chat "a" Để Cài Tọa Độ PK Âm
+- Chat "a" Để Cài Auto Treo Game (Cơ Chế Không Thoát Khi Không Tàn Sát)
+- Lệnh Cài Bot PK : "cpk,dpk,pk,apk" Như Pb Khác
+- Chat "b" Để Cài Time Nick On/Off
+- Chat "t" Để Thêm Nhóm + "f" Để Quạt Buff 
+- Chat "td" Để Hiện Tọa Độ Cài Pk Âm
+- Chat "i" Để Bật Tắt Lọc Đồ Thông Minh
+- Chat "p" tắt auto tàn sát
+- Chat "xemxu xemlv mapup" Check Nick Up (Nhớ Kết Bạn 2 bên)
+
+
+- Cách chạy x10 cho j2me : https://youtu.be/IWMd0O1DObU?si=vW0PKVYXhvOkaQPo
+
+- Chạy x3 cho j2me mà lỗi thì tải "mega j2me" ở CHPLAY cài thử
+
+- Clip pb up yên : https://youtu.be/4-Re9V9qS_g?si=XY3rnXhOh4mcDxvF
+
+- Vì đây là pb fix 900s nên mình cho next map hơi chậm,bạn nào mạng ổn định có thể xin thêm pb speed next map nhanh 0,01s (free nhé)
