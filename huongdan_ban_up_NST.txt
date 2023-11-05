@@ -27,6 +27,35 @@
 - Chat "xemxu xemlv mapup" Check Nick Up (Nhớ Kết Bạn 2 bên)
 
 
+Instructions for Using the UP Version on NsoTien TV
+
+
+* Function :
+- Update Runs Smoothly for Machines c5, e63, e72,...
+- Fixed Avoiding Monsters Without Wasting Time Jumping
+- Added Anti-Exit Mechanism for Buff Fan
+- Fix Map 84 + Map 33 Up Deliciously
+- Negative PK Coordinates + Auto Save Negative PK Area Avoid Re-Entering
+- Self-Train Kicking When Under 6 Inventory Slots Avoid Full When Uploading Energy
+- Fix Optimal Virtual HP + MP Up Saddle Lever
+- Auto Filter Smart Items Self-emptying to Avoid Out of Game
+- Delicious Saigon Version for You Character Names [VIP]
+- Turn Chat OFF Nick Limit Check Pass When Up
+- Optimal Chat Commands + Preset Pickup Distance for Quick Operation
+- You can choose whether the next map is fast or slow depending on your network
+* User manual :
+- Chat "up" Set Time
+- Chat "a" To Set Negative PK Coordinates
+- Chat "a" To Set Auto Hang Game (Mechanism of Not Exiting When Not Killing)
+- Command to Install Bot PK: "cpk,dpk,pk,apk" Same as Pb Other
+- Chat "b" To Set Time Nick On/Off
+- Chat "t" To Add Group + "f" To Fan Buff
+- Chat "td" To Display Negative Pk Set Coordinates
+- Chat "i" To Turn On/Off Smart Filtering
+- Chat "p" turns off auto slaughter
+- Chat "xemxuxemlv mapup" Check Nick Up (Remember to make friends on both sides)
+
+
 - Cách chạy x10 cho j2me : https://youtu.be/IWMd0O1DObU?si=vW0PKVYXhvOkaQPo
 
 - Chạy x3 cho j2me mà lỗi thì tải "mega j2me" ở CHPLAY cài thử
