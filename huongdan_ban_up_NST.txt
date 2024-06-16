@@ -1,78 +1,35 @@
-   Hướng Dẫn Sử Dụng Bản UP Bên NsoTien TV
-
-
- Chức Năng :
-- Update Chạy Ngon Lành Cho Máy c5, e63, e72,...
-- Mod Teleport Quái Tăng 20% Hiệu Năng Up
-- Đã Fix Né Quái Không Cần Nhảy Tốn Time
-- Thêm Cơ Chế Chống Thoát Game Cho Quạt Buff
-- Fix Map 84 + Map 33 , Tự Về Mua Thức Ăn Khi Hết
-- PK Âm Dễ Sài + Tự Lưu Khu Pk Âm Tránh Nhập Lại
-- Tự Luyện Đá Khi Dưới 6 Ô Hành Trang Tránh Full Khi Up NLSK
-- Auto Lọc Đồ Thông Minh Tự Bỏ Ra Đất Tránh Out Game
-- Fix HP + MP Ảo Tối Ưu Up Yên Lever
-- Hiển Thị Số Yên + Level + Tọa Độ Ra Màn Hình
-- Hiển Thị Map + Khu + Trạng Thái Bật Pk Ra Màn Hình
-- Phiên Bản Sài Ngon Cho Các Ae Tên Nhân Vật [VIP]
-- Tắt Chát OFF Nick Hạn Chế Check Pass Khi Up
-- Lệnh Chat Tối Ưu + Cài Sẵn KC Nhặt + Tầm Đánh
-- Chọn Next Map Siêu Nhanh Hoặc Fix 900S Tùy Mạng Ae
-
-
-* Hướng Dẫn Sử Dụng :
-- Chat "up" Cài Time Để Nó Tự Out
-- Chat "a" Để Bật PK Âm Giữ Level
-- Nhớ Cài Tọa Độ Vào, Tọa Độ Ngay Ngoài Màn Hình
-- Chat "cpk" Để Bot Đứng Chờ Bị PK
-- Chat "dpk" Để Bot Đứng Chờ Đánh PK
-- Chat "a" Để Cài Auto Treo Game (Cơ Chế Không Thoát Khi Không Tàn Sát)
-- Chat "b" Để Cài Time Nick On/Off
-- Chat "hlctX" Để Bật Dùng HLCT Khi Hiếu Chiến = X
-- Chat "t" Để Thêm Người Khác Vào Nhóm
-- Chat "f" Để Buff Người Trong Nhóm
-- Chat "i" Để Bật Tắt Lọc Đồ Thông Minh
-- Chat "nst" Với Nick Để Kiểm Tra Tình Trạng Up(Nhớ Online Trên 3 Phút)
-- Chat "p" tắt auto tàn sát
-
------instruction-----
-Function :
-- Update Runs Smoothly for Machines c5, e63, e72,...
-- Monster Teleport Mod Increases Up Performance by 20%.
-- Fixed Avoiding Monsters Without Wasting Time Jumping
-- Added Anti-Exit Mechanism for Buff Fan
-- Fix Map 84 + Map 33, Go back and buy food when you run out
-- Easy To Install Negative PK + Self-Save Negative PK Area Avoid Re-Entering
-- Self-Train Kicking When Under 6 Inventory Slots Avoid Full When Uploading Energy
-- Auto Filter Smart Items Self-emptying to Avoid Out of Game
-- Fix Optimal Virtual HP + MP Up Saddle Lever
-- Display Yen Number + Level + Coordinates on Screen
-- Display Map + Area + Pk Turn On Status On Screen
-- Delicious Saigon Version for You Character Names [VIP]
-- Turn Chat OFF Nick Limit Check Pass When Up
-- Optimal Chat Commands + Preset Pickup Attack + Attack Range
-- Choose Next Map Super Fast Or Fix 900S Depending On Your Network
-
-
-* User manual :
-- Chat "up" Set Time For It To Go Out Automatically
-- Chat "a" To Enable Negative PK Keep Level
-- Remember to Set Coordinates In, Coordinates Right Off the Screen
-- Chat "cpk" Let Bot Wait To Be PKed
-- Chat "dpk" Let the Bot Wait to Play PK
-- Chat "a" To Set Auto Hang Game (Mechanism of Not Exiting When Not Killing)
-- Chat "b" To Set Time Nick On/Off
-- Chat "hlctX" To Enable Using HLCT When Aggressive = X
-- Chat "t" To Add Others To The Group
-- Chat "f" To Buff People In The Group
-- Chat "i" To Turn On/Off Smart Filtering
-- Chat "nst" With Nick To Check Up Status (Remember Online Over 3 Minutes)
-- Chat "p" turns off auto slaughter
-
-
 - Cách chạy x10 cho j2me : https://youtu.be/IWMd0O1DObU?si=vW0PKVYXhvOkaQPo
 
-- Chạy x3 cho j2me mà lỗi thì tải "mega j2me" ở CHPLAY cài thử
+- HD dùng phiên bản up : https://youtu.be/PC21oxB5kac?si=Uruyap0-5u2JXPlj
 
-- Clip pb up yên : https://youtu.be/4-Re9V9qS_g?si=XY3rnXhOh4mcDxvF
 
-- Vì đây là pb fix 900s nên mình cho next map hơi chậm,bạn nào mạng ổn định có thể xin thêm pb speed next map nhanh 0,01s (free nhé)
+* Chức Năng :
+- [Hot] Sử Dụng Và Xem Được Trang Bị 2
+- Auto Hang Động 9X 2 Lần 1 Ngày
+- Update Chạy Ngon Lành Cho Máy e72
+- Tối Ưu Áp Sát Quái Và Chuyển Khu
+- Đã Fix Né Quái Không Cần Nhảy Tốn Time
+- Thêm Cơ Chế Chống Thoát Game Cho Quạt Buff
+- Fix Map 84 + Map 33 Up Ngon Lành
+- PK Âm Tọa Độ + Tự Lưu Khu Pk Âm Tránh Nhập Lại
+- Tự Luyện Đá Khi Dưới 6 Ô Hành Trang Tránh Full Khi Up NLSK
+- Fix HP + MP Ảo Tối Ưu Up Yên Lever
+- Auto Lọc Đồ Thông Minh Tự Bỏ Ra Đất Tránh Out Game
+- Hiển Thị Thông Tin Up Và Trạng Thái PK Âm
+- Phiên Bản Sài Ngon Cho Các Ae Tên Nhân Vật [VIP]
+- Fix Tốc Độ Chạy Cao Mượt Mà Không Giật
+* Hướng Dẫn Sử Dụng :
+- Chat "up" Cài Time 
+- Chat "a" Để Cài Tọa Độ PK Âm
+- Chat "a" Để Cài Auto Treo Game (Cơ Chế Không Thoát Khi Không Tàn Sát)
+- Chat "a" Để Bật Tắt Hiện Thông Tin Up
+- Chat "hd" Để Cài Auto Hang Động Cho ALl Level
+- Lệnh Cài Bot PK Âm Gồm : "cpk,dpk,pk,apk"(Gõ Pk Âm Youtube Nhiều Hướng Dẫn)
+- Chat "b" Để Cài Time Nick On/Off
+- Chat "t" Để Thêm Nhóm + "f" Để Quạt Buff 
+- Chat "td" Để Hiện Tọa Độ Cài Pk Âm
+- Chat "i" Để Bật Tắt Lọc Đồ Thông Minh
+- Chat "p" tắt auto tàn sát
+- Chat "nst" Check Nick Up (Nhớ Kết Bạn 2 bên)
+
+
